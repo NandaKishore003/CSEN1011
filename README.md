@@ -10,23 +10,23 @@
 
 [01-Armstrong.c](ArmSetting.c)
 
-[Addition of two numbers.c](Addition of 2 Numbers using Raptor Flowchart in.c)
+[02-Addition of two numbers.c](Addition of 2 Numbers using Raptor Flowchart in.c)
 
-[Checking the number is even or odd.c](EvenorOdd.c)
+[03-Checking the number is even or odd.c](EvenorOdd.c)
 
-[Fibnocci Sequence.c](Fibnoccisequence.c)
+[04-Fibnocci Sequence.c](Fibnoccisequence.c)
 
-[Hello World program.c](Hello.c)
+[05-Hello World program.c](Hello.c)
 
-[Prime or Composite.c](
+[06-Prime or Composite.c](
 
-[Reversing The Numbers.c](ReversingTheNumber.c)
+[07-Reversing The Numbers.c](ReversingTheNumber.c)
 
-[Net Salary.c](netsalary)
+[08-Net Salary.c](netsalary)
 
-[Simple and Compound Interest.c](simple&compoundinterest.c)
+[09-Simple and Compound Interest.c](simple&compoundinterest.c)
 
-[Pascal's Triangle.c](Pascal'sTriangle.c)
+[10-Pascal's Triangle.c](Pascal'sTriangle.c)
 
-[Inverted Tiangle with Stars.c](InvertedTriangleofstars.c)
+[11-Inverted Tiangle with Stars.c](InvertedTriangleofstars.c)
 
