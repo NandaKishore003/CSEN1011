@@ -10,7 +10,7 @@
 
 [01-Armstrong.c](ArmSetting.c)
 
-[Addition of two numbers.c](Addition of 2 Numbers using Raptor Flowchart in C++ syntax.c)
+[Addition of two numbers.c](Addition of 2 Numbers using Raptor Flowchart in.c)
 
 [Checking the number is even or odd.c](EvenorOdd.c)
 
