@@ -30,3 +30,5 @@
 
 [11-Inverted Tiangle with Stars.c](InvertedTriangleofstars.c)
 
+[12-Perfect Number using functions.c](PerfectNumbersUsingFunctions.c)
+
