@@ -32,13 +32,15 @@
 
 [01-Hello World program.c](Hello.c)
 
-[02-Simple and Compound Interest.c](simple&compoundinterest.c)
+[02-Simple Interest.c](simpleinterestprogramme.c)
 
-[03-Net Salary.c](netsalary)
+[03-Simple and Compound Interest.c](simple&compoundinterest.c)
 
-[04-Addition of two numbers.c](AdditionOf2NumbersUsingRaptorFlowchartinC.c)
+[04-Net Salary.c](netsalary)
 
-[05-Checking the number is even or odd.c](EvenorOdd.c)
+[05-Addition of two numbers.c](AdditionOf2NumbersUsingRaptorFlowchartinC.c)
+
+[06-Checking the number is even or odd.c](EvenorOdd.c)
 
 ### Raptor
 
