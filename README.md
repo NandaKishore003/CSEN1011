@@ -36,7 +36,7 @@
 
 [03-Net Salary.c](netsalary)
 
-[04-Addition of two numbers.c](Addition of 2 Numbers using Raptor Flowchart in.c)
+[04-Addition of two numbers.c](AdditionOf2NumbersUsingRaptorFlowchartinC.c)
 
 [05-Checking the number is even or odd.c](EvenorOdd.c)
 
